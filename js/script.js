@@ -22,16 +22,16 @@ $(function () {
     //  ======================================================
     
     //  Personal Skills Percentage
-        personalSkill1 = 80,   // ========>  (Communication)
+        personalSkill1 = 95,   // ========>  (Communication)
         personalSkill2 = 70,   // ========>  (Team Work)
-        personalSkill3 = 50,   // ========>  (Creativity)
-        personalSkill4 = 75,   // ========>  (Dedication)
+        personalSkill3 = 70,   // ========>  (Creativity)
+        personalSkill4 = 95,   // ========>  (Dedication)
         
     //  Professional Skills Percentage
-        professionalSkill1 = 90,   // ====>  (C# / ASP.NET Core)
-        professionalSkill2 = 55,   // ====>  (HTML5 & CSS3)
-        professionalSkill3 = 75,   // ====>  (JavaScript / TypeScript)
-        professionalSkill4 = 50;   // ====>  (Rust)
+        professionalSkill1 = 95,   // ====>  (C# / ASP.NET Core)
+        professionalSkill2 = 60,   // ====>  (HTML5 & CSS3)
+        professionalSkill3 = 80,   // ====>  (JavaScript / TypeScript)
+        professionalSkill4 = 60;   // ====>  (Rust)
     //  ======================================================
     
     // Mobile Menu
