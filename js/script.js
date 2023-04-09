@@ -29,9 +29,9 @@ $(function () {
         
     //  Professional Skills Percentage
         professionalSkill1 = 95,   // ====>  (C# / ASP.NET Core)
-        professionalSkill2 = 60,   // ====>  (HTML5 & CSS3)
+        professionalSkill2 = 60,   // ====>  (Java)
         professionalSkill3 = 80,   // ====>  (JavaScript / TypeScript)
-        professionalSkill4 = 60;   // ====>  (Database)
+        professionalSkill4 = 90;   // ====>  (Database)
     //  ======================================================
     
     // Mobile Menu
